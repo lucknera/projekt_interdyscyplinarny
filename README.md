@@ -1,2 +1,4 @@
 # projekt_interdyscyplinarny
-Kody do zadania konkursowego 
+Link do zadania konkursowego:
+https://zindi.africa/competitions/rhea-soil-nutrient-prediction-challenge/data
+
