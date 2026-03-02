@@ -12,7 +12,8 @@ def read_data(path):
     data = pd.read_csv(path)
     df = pd.merge(data, combine_features(), on="ID")
     df = df.drop(
-        columns=["start_date", "end_date", "horizon_lower", "horizon_upper", "Country", "electrical_conductivity"]
+        columns=["start_date", "end_date", "horizon_lower", "horizon_upper", "Country", "electrical_conductivity"],
+        errors="ignore"
     )
     target_cols = [
         "Al",
