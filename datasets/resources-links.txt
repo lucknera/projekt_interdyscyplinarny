@@ -10,3 +10,6 @@ https://www.fao.org/faostat/en/#data/domains_table
 Global Spatially-Disaggregated Crop Production Statistics Data
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SWPENT
 
+AfSIS
+https://isric.org/projects/africa-soil-information-service-afsis
+
